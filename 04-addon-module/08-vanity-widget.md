@@ -1,7 +1,7 @@
 # Vanity Widget
 
-### PUQ Web Hosting module **[WHMCS](https://puqcloud.com/)**
-#####  [Order now](https://puqcloud.com/) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WEB-Hosting/) | [FAQ](https://faq.puqcloud.com/)
+### PUQ Web Hosting module **[WHMCS](https://puqcloud.com/link.php?id=77)**
+#####  [Order now](https://puqcloud.com/whmcs-module-web-hosting.php) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WEB-Hosting/) | [FAQ](https://faq.puqcloud.com/)
 
 **Settings → Vanity widget** generates a standalone "claim your name" landing page (two files) that you can drop on any marketing domain to sell vanity slots outside the WHMCS portal.
 

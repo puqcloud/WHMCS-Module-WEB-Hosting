@@ -1,7 +1,7 @@
 # The Vanity Product
 
-### PUQ Web Hosting module **[WHMCS](https://puqcloud.com/)**
-#####  [Order now](https://puqcloud.com/) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WEB-Hosting/) | [FAQ](https://faq.puqcloud.com/)
+### PUQ Web Hosting module **[WHMCS](https://puqcloud.com/link.php?id=77)**
+#####  [Order now](https://puqcloud.com/whmcs-module-web-hosting.php) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WEB-Hosting/) | [FAQ](https://faq.puqcloud.com/)
 
 With the **vanity group** ready (previous page), create a WHMCS product that sells from it. Create a normal product (*Setup → Products/Services*), set its module to **PUQ Web Hosting**, and point its **Server Group** at your vanity group.
 

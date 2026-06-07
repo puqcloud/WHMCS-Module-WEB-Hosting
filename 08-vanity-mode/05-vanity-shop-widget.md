@@ -1,7 +1,7 @@
 # The Vanity Shop Widget
 
-### PUQ Web Hosting module **[WHMCS](https://puqcloud.com/)**
-#####  [Order now](https://puqcloud.com/) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WEB-Hosting/) | [FAQ](https://faq.puqcloud.com/)
+### PUQ Web Hosting module **[WHMCS](https://puqcloud.com/link.php?id=77)**
+#####  [Order now](https://puqcloud.com/whmcs-module-web-hosting.php) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WEB-Hosting/) | [FAQ](https://faq.puqcloud.com/)
 
 Besides selling vanity slots through the normal WHMCS cart, the module ships a **standalone “claim your name” widget** — two small files you can drop on **any** marketing domain (you can deploy it on hundreds of them). It shows a polished landing page that live‑checks names and sends the buyer straight into your prefilled WHMCS cart.
 

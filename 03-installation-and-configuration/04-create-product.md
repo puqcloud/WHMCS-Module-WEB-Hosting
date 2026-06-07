@@ -1,7 +1,7 @@
 # Create a Product
 
-### PUQ Web Hosting module **[WHMCS](https://puqcloud.com/)**
-#####  [Order now](https://puqcloud.com/) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WEB-Hosting/) | [FAQ](https://faq.puqcloud.com/)
+### PUQ Web Hosting module **[WHMCS](https://puqcloud.com/link.php?id=77)**
+#####  [Order now](https://puqcloud.com/whmcs-module-web-hosting.php) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WEB-Hosting/) | [FAQ](https://faq.puqcloud.com/)
 
 Create a product in WHMCS (*Setup → Products/Services*), then on **Module Settings** choose **PUQ Web Hosting** and point **Server Group** at the group you built.
 

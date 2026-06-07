@@ -1,7 +1,7 @@
 # SSL Automation
 
-### PUQ Web Hosting module **[WHMCS](https://puqcloud.com/)**
-#####  [Order now](https://puqcloud.com/) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WEB-Hosting/) | [FAQ](https://faq.puqcloud.com/)
+### PUQ Web Hosting module **[WHMCS](https://puqcloud.com/link.php?id=77)**
+#####  [Order now](https://puqcloud.com/whmcs-module-web-hosting.php) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WEB-Hosting/) | [FAQ](https://faq.puqcloud.com/)
 
 SSL is hands‑off by default: the module issues and renews **Let's Encrypt** certificates automatically, and gets out of the way when a customer brings their own.
 

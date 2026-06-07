@@ -1,7 +1,7 @@
 # Frequently Asked Questions
 
-### PUQ Web Hosting module **[WHMCS](https://puqcloud.com/)**
-#####  [Order now](https://puqcloud.com/) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WEB-Hosting/) | [FAQ](https://faq.puqcloud.com/)
+### PUQ Web Hosting module **[WHMCS](https://puqcloud.com/link.php?id=77)**
+#####  [Order now](https://puqcloud.com/whmcs-module-web-hosting.php) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WEB-Hosting/) | [FAQ](https://faq.puqcloud.com/)
 
 **Do I need separate servers for web, mail and DNS?**
 No. One server can do all three. But you *can* split them by capability and balance load by server type — heavy PHP sites on web nodes, mail on mail nodes, an active‑active DNS pool — without changing products. See **Deployment & Segmentation**.
@@ -38,3 +38,9 @@ No. Its tasks retry when it's back; if a task is permanently stuck, **Force‑fa
 
 **How do I move a product to a new deployment mode or add a role?**
 Change it on the product's **General** tab, re‑run **Config options → Create / sync missing** (safe, additive), and redeploy affected services.
+
+**Which PHP version / module build do I need?**
+Install the build that matches the PHP version your **WHMCS host** runs on. The module ships builds for PHP **7.4, 8.1 and 8.2**. **WHMCS 8** runs on PHP 7.4, 8.1 or 8.2 → use the matching build; **WHMCS 9** runs on PHP 8.2 → use the 8.2 build; on any host with **PHP 8.3 / 8.4 or newer**, use the **8.2 build**. This is the WHMCS host's PHP — separate from the PHP versions you offer to hosting customers on each Hestia web server. Full table in **Installation & Configuration → Requirements & Installation**.
+
+**Where do I get help or ask questions?**
+Join the PUQ community at [community.puqcloud.com](https://community.puqcloud.com/).

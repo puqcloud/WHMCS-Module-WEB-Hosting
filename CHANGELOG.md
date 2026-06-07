@@ -4,6 +4,8 @@
 
 Full HestiaCP web + email hosting automation for WHMCS.
 
+**Compatibility** — WHMCS 8.x and 9.x. Distributed as ionCube‑encoded builds for PHP **7.4, 8.1 and 8.2**: WHMCS 8 → PHP 7.4 / 8.1 / 8.2, WHMCS 9 → PHP 8.2, and on PHP 8.3+ use the 8.2 build.
+
 **Provisioning & infrastructure**
 - Asynchronous, cron‑driven, idempotent deploy pipeline (instant orders, retryable steps, failure tickets).
 - Server **capabilities** (Web / Mail / DNS) and **server groups** for load segmentation by server type.

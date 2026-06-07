@@ -1,7 +1,7 @@
 # Vanity: Order & Client Experience
 
-### PUQ Web Hosting module **[WHMCS](https://puqcloud.com/)**
-#####  [Order now](https://puqcloud.com/) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WEB-Hosting/) | [FAQ](https://faq.puqcloud.com/)
+### PUQ Web Hosting module **[WHMCS](https://puqcloud.com/link.php?id=77)**
+#####  [Order now](https://puqcloud.com/whmcs-module-web-hosting.php) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WEB-Hosting/) | [FAQ](https://faq.puqcloud.com/)
 
 This page follows a vanity order from the WHMCS cart through to the live customer dashboard.
 
@@ -18,6 +18,21 @@ As the buyer types, the module checks availability **live** against your API. A 
 A free name turns green and unlocks **Continue**:
 
 ![Vanity order — name available](../img/client-order-vanity-available.png)
+
+## Customising the order-form panel
+
+The whole "Choose your name & domain" card — its markup, CSS and the small bit of JavaScript that powers the live availability check and the `name.domain` / `name@domain` preview — lives in an **editable template**, not in the (ionCube‑encoded) PHP. You can restyle it to match your theme.
+
+**File:** `modules/servers/puqWebHosting/templates/order_form_vanity.tpl`
+
+* It is plain text — open it in any editor. The header comment explains every part.
+* **All CSS classes are prefixed `puqv-`** (e.g. `.puqv-pill`, `.puqv-preview`, `.puqv-name-row`). Edit the `<style>` block to recolour the availability pill, the preview frame, spacing, fonts, etc.
+* The HTML "skeleton" (the `puqv-*-slot` containers) is where the real WHMCS fields are dropped in at runtime — rearrange it freely; just keep the `*-slot`, `#puqv-st` and `#puqv-pv` elements so the script can find them.
+* The wording (title, helper line, availability messages) is **translatable** via the module language files (`modules/servers/puqWebHosting/lang/<language>.php`, keys `order_*`) — it is injected at runtime, so you don't hard‑code text in the template.
+
+> **Surviving updates.** A module upgrade may replace the shipped `order_form_vanity.tpl`. To keep your changes, copy it to **`order_form_vanity.custom.tpl`** in the same folder and edit that — the module loads the `.custom.tpl` automatically when it exists and never overwrites it.
+
+After editing, reload the order page (no cache to clear for the template itself; if you changed module PHP, reset OPcache).
 
 ## In the cart
 
