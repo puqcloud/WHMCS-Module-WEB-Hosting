@@ -1,7 +1,7 @@
 # Usage Sync & Metric Billing
 
 ### PUQ Web Hosting module **[WHMCS](https://puqcloud.com/link.php?id=77)**
-#####  [Order now](https://puqcloud.com/whmcs-module-web-hosting.php) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WEB-Hosting/) | [FAQ](https://faq.puqcloud.com/)
+#####  [Order now](https://puqcloud.com/whmcs-module-web-hosting.php) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WEB-Hosting/) | [Community](https://community.puqcloud.com/)
 
 The module keeps live resource figures (disk, bandwidth, mailboxes, databases…) in the local database so both the admin and client areas render instantly, and it feeds WHMCS metric billing.
 

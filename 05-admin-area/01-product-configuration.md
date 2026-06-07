@@ -1,7 +1,7 @@
 # Product Configuration (reference)
 
 ### PUQ Web Hosting module **[WHMCS](https://puqcloud.com/link.php?id=77)**
-#####  [Order now](https://puqcloud.com/whmcs-module-web-hosting.php) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WEB-Hosting/) | [FAQ](https://faq.puqcloud.com/)
+#####  [Order now](https://puqcloud.com/whmcs-module-web-hosting.php) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WEB-Hosting/) | [Community](https://community.puqcloud.com/)
 
 A product's behaviour is defined on its WHMCS **Module Settings** tabs. *Installation & Configuration → Create a product* walks the happy path; this page is a reference to the moving parts and how they fit together.
 

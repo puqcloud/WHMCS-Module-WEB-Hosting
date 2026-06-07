@@ -1,7 +1,7 @@
 # The Deploy Process
 
 ### PUQ Web Hosting module **[WHMCS](https://puqcloud.com/link.php?id=77)**
-#####  [Order now](https://puqcloud.com/whmcs-module-web-hosting.php) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WEB-Hosting/) | [FAQ](https://faq.puqcloud.com/)
+#####  [Order now](https://puqcloud.com/whmcs-module-web-hosting.php) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WEB-Hosting/) | [Community](https://community.puqcloud.com/)
 
 Provisioning is **not** done synchronously inside the WHMCS order. `_CreateAccount` simply records the desired service and enqueues the work; the cron‑driven task runner then builds the service step by step. This is what keeps orders instant and makes every step retryable.
 

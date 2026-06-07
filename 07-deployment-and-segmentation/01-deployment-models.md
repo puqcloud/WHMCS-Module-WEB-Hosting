@@ -1,7 +1,7 @@
 # Deployment Models (Split · Unified · Vanity)
 
 ### PUQ Web Hosting module **[WHMCS](https://puqcloud.com/link.php?id=77)**
-#####  [Order now](https://puqcloud.com/whmcs-module-web-hosting.php) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WEB-Hosting/) | [FAQ](https://faq.puqcloud.com/)
+#####  [Order now](https://puqcloud.com/whmcs-module-web-hosting.php) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WEB-Hosting/) | [Community](https://community.puqcloud.com/)
 
 Every product you sell has a **Deployment mode** set on the product's *Module Settings → General* tab. It decides **how many HestiaCP accounts** back each service and **where** the web, mail and DNS roles live. This is the single most important product decision.
 

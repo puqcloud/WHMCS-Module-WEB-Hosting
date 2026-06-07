@@ -1,7 +1,7 @@
 # Service Management
 
 ### PUQ Web Hosting module **[WHMCS](https://puqcloud.com/link.php?id=77)**
-#####  [Order now](https://puqcloud.com/whmcs-module-web-hosting.php) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WEB-Hosting/) | [FAQ](https://faq.puqcloud.com/)
+#####  [Order now](https://puqcloud.com/whmcs-module-web-hosting.php) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WEB-Hosting/) | [Community](https://community.puqcloud.com/)
 
 Every hosting service is managed from inside its WHMCS service page. At the top you get the standard WHMCS editor with the Configurable‑Option dropdowns and the **Module Commands** (Create / Suspend / Unsuspend / Terminate / Change Package):
 

@@ -1,7 +1,7 @@
 # Frequently Asked Questions
 
 ### PUQ Web Hosting module **[WHMCS](https://puqcloud.com/link.php?id=77)**
-#####  [Order now](https://puqcloud.com/whmcs-module-web-hosting.php) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WEB-Hosting/) | [FAQ](https://faq.puqcloud.com/)
+#####  [Order now](https://puqcloud.com/whmcs-module-web-hosting.php) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WEB-Hosting/) | [Community](https://community.puqcloud.com/)
 
 **Do I need separate servers for web, mail and DNS?**
 No. One server can do all three. But you *can* split them by capability and balance load by server type — heavy PHP sites on web nodes, mail on mail nodes, an active‑active DNS pool — without changing products. See **Deployment & Segmentation**.

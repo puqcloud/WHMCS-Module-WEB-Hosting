@@ -1,7 +1,7 @@
 # Server‑Group Editor
 
 ### PUQ Web Hosting module **[WHMCS](https://puqcloud.com/link.php?id=77)**
-#####  [Order now](https://puqcloud.com/whmcs-module-web-hosting.php) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WEB-Hosting/) | [FAQ](https://faq.puqcloud.com/)
+#####  [Order now](https://puqcloud.com/whmcs-module-web-hosting.php) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WEB-Hosting/) | [Community](https://community.puqcloud.com/)
 
 Open a group (Infrastructure → Server Groups → **Open**) to manage its members, its centrally‑managed `hestia.conf`, its DNS cluster and (for vanity groups) its sellable domains. A standard group has these tabs: **Actions · General · All‑servers config · Web config · Mail config · DNS config · Variables · Standard files · DNS servers**.
 
